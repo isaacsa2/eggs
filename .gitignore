@@ -1,0 +1,15 @@
+logs/
+crash-reports/
+cache/
+world/
+world_nether/
+world_the_end/
+plugins/
+
+*.log
+*.tmp
+*.bak
+*.old
+
+Thumbs.db
+Desktop.ini
